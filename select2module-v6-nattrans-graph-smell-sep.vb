@@ -5,6 +5,7 @@
 'Supervised by: Prof. Jorma Sajaniemi
 'Email: saja@cs.uef.fi
 'Date: 10th June 2014
+'revised in 2017 and 2018
 
 Option Explicit
 Option Compare Text
